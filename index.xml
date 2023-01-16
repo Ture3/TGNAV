@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TGNAV - Telegram频道导航</title>
+    <link>./</link>
+    <description>Recent content on TGNAV - Telegram频道导航</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="./index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于网站</title>
+      <link>./about/</link>
+      <pubDate>Mon, 16 Jan 2023 17:00:00 +0800</pubDate>
+      
+      <guid>./about/</guid>
+      <description>TGNAV - Telegram频道导航 TGNAV旨在打造一个高质量Telegram频道导航。 我们非常重视并承诺保护网站访客的隐私，具体请参阅我们的 《隐</description>
+    </item>
+    
+    <item>
+      <title>加载出错</title>
+      <link>./error/</link>
+      <pubDate>Mon, 16 Jan 2023 17:00:00 +0800</pubDate>
+      
+      <guid>./error/</guid>
+      <description>ERR_BLOCKED_BY_CLIENT 为什么我会看到此页面？ 您的浏览器扩展程序（又称“附加组件”）拦截了部分请求，使得网站无法正常加载。 如何解决此问题？ 请关闭有关扩展程序或将本</description>
+    </item>
+    
+    <item>
+      <title>隐私政策</title>
+      <link>./privacy-policy/</link>
+      <pubDate>Mon, 16 Jan 2023 17:00:00 +0800</pubDate>
+      
+      <guid>./privacy-policy/</guid>
+      <description>一、总览 我们非常重视并承诺保护网站访客的隐私，本政策详细阐述了我们对信息的处理方式； 继续浏览本网站即表示您已阅读并同意《隐私政策》； 本网站保</description>
+    </item>
+    
+  </channel>
+</rss>
