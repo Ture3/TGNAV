@@ -16,15 +16,6 @@
     </item>
     
     <item>
-      <title>加载出错</title>
-      <link>./error/</link>
-      <pubDate>Mon, 16 Jan 2023 17:00:00 +0800</pubDate>
-      
-      <guid>./error/</guid>
-      <description>ERR_BLOCKED_BY_CLIENT 为什么我会看到此页面？ 您的浏览器扩展程序（又称“附加组件”）拦截了部分请求，使得网站无法正常加载。 如何解决此问题？ 请关闭有关扩展程序或将本</description>
-    </item>
-    
-    <item>
       <title>隐私政策</title>
       <link>./privacy-policy/</link>
       <pubDate>Mon, 16 Jan 2023 17:00:00 +0800</pubDate>
