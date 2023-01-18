@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>./about/</loc>
+    <loc>https://tgnav.github.io/about/</loc>
     <lastmod>2023-01-16T17:00:00+08:00</lastmod>
   </url><url>
-    <loc>./privacy-policy/</loc>
+    <loc>https://tgnav.github.io/privacy-policy/</loc>
     <lastmod>2023-01-16T17:00:00+08:00</lastmod>
   </url><url>
-    <loc>./categories/</loc>
+    <loc>https://tgnav.github.io/categories/</loc>
   </url><url>
-    <loc>./tags/</loc>
+    <loc>https://tgnav.github.io/tags/</loc>
   </url><url>
-    <loc>./</loc>
+    <loc>https://tgnav.github.io/</loc>
   </url>
 </urlset>
