@@ -143,19 +143,6 @@ const handle = async function (req) {
             }
             return path
         }
-        if (fullpath(urlPath).match(/\.[a-zA-Z]+$/)[0] == ".html") {
-            /* 只拦截 HTML 文件 */
-            return lfetch(generate_blog_urls('qy-blog',await db.read('blog_version') || '0.1.7',fullpath(urlPath),0))
-            .then(res=>res.arrayBuffer())
-            .then(buffer=>new Response(buffer,{headers:{"Content-Type":"text/html;charset=utf-8"}})
-            )// rewrite header
-        } else {
-            /* 拦截其他文件，不用处理 Headers */
-            return lfetch(generate_blog_urls('qy-blog',await db.read('blog_version') || '0.1.7',fullpath(urlPath), 0))
-            // .then(res=>res.arrayBuffer())
-            // .then(buffer=>new Response(buffer,{headers:{"Content-Type":"text/html;charset=utf-8"}})
-            // )// rewrite header
-        }
     }
 
     return fetch(req).then(function (res) {
